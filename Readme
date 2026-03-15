@@ -1,0 +1,5 @@
+Root dir - app/public
+DB access config in the app/src/config.php
+
+run - php migrate.php for creating tasks table
+
